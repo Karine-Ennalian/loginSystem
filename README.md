@@ -1,6 +1,6 @@
 ## Sistema de Login
 
-Este projeto é um Sistema de simples de Login, onde o usuário precisa está registrado para efeturar o login no site. Os dados dos usuários cadastrados são guardados localmente, caso o usuário esteja devidamente cadastrado mas por um acaso digitou o email ou senha de acesso errado aparecerá na tela um aviso.
+Este projeto é um Sistema simples de Login, onde o usuário precisa está registrado para efeturar o login no site. Os dados dos usuários cadastrados são guardados localmente, caso o usuário esteja devidamente cadastrado mas por um acaso digitou o email ou senha de acesso errado aparecerá na tela um aviso.
 ### Ferramentas
 
 * React.js
